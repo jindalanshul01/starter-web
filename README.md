@@ -12,7 +12,7 @@ This section illustrates the purpose of the project. Sample website with plenty 
 
 ## How to contribute
 
-This section contemplates how one can contribute to this project
+Fork the repo and rause a PR.
 
 ## Copyright
 
